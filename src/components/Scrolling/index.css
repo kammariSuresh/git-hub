@@ -1,0 +1,22 @@
+/* Scrolling.css */
+.scrolling {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.scroll-list {
+  list-style: none;
+  padding: 0;
+}
+
+.scroll-item {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}

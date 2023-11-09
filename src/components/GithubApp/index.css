@@ -1,0 +1,32 @@
+/* GitHubApp.css */
+.github-app {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.repo-list {
+  list-style: none;
+  padding: 0;
+}
+
+.repo-item {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+}
+
+.repo-image {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  border-radius: 50%;
+  object-fit: cover;
+}
